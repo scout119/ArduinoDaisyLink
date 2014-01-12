@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For 
+# GadgeteerDaisyLink
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DaisyLink	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize			KEYWORD2
+onStatus			KEYWORD2
+notifyMainBoard		KEYWORD2
+onUpdateRegister	KEYWORD2
+
+#######################################
+# Instances (KEYWORD3)
+#######################################
+
+DaisyLink	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+

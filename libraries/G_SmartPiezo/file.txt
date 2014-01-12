@@ -1,0 +1,4 @@
+Signal 'VCC'
+	U$1, 1
+	U$2, 1
+	ISP1, 2
