@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module fritzingVersion="0.6.5b.01.02.5717" moduleId="6b4fc46ca8e5a8138b3081e867e73d6c">
+	<author>EagleToFritzing http://www.breakcontinue.com</author>
+	<label>Piezo</label>
+	<date>2012-02-14</date>
+	<tags/>
+	<properties>
+		<property name="family">Gadgeteer Main Board</property>
+		<property name="url">http://www.ghielectronics.com/catalog/product/269</property>
+		<property name="part number">Spider</property>
+		<property name="variant">FEZ Spider</property>
+	</properties>
+	<description>FEZ Spider is first Gadgeteer Main board made by GHI Electronics.</description>
+	<views>
+		<iconView>
+			<layers image="icon/Piezo_icon.svg">
+				<layer layerId="icon"/>
+			</layers>
+		</iconView>
+	</views>
+	<connectors/>
+</module>
